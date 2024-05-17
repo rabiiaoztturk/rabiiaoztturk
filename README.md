@@ -6,6 +6,7 @@ Backend geliştirme konusunda uzmanlaşmak için C# ve SQL gibi teknolojiler üz
 C#,
 SQL,
 HTML,
+CSS,
 ASP.NET CORE
 
 🔭 Şu an üzerinde çalıştığım projeler: 
