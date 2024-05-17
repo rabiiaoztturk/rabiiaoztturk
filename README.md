@@ -3,8 +3,10 @@
 Backend geliştirme konusunda uzmanlaşmak için C# ve SQL gibi teknolojiler üzerinde yoğunlaşıyorum. Yazılım geliştirme sürecinin her adımında yeni şeyler öğrenmek ve öğrendiklerimi projelerimde uygulamak benim için büyük bir tatmin kaynağı.
 
 💻 Öğrenmeye ve geliştirmeye devam ettiğim konular
-C#
-SQL
+C#,
+SQL,
+HTML,
+ASP.NET CORE
 
 🔭 Şu an üzerinde çalıştığım projeler:
 Eğitim sürecinde geliştirdiğim çeşitli backend projeleri ve web uygulamaları
