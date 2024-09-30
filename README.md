@@ -1,13 +1,16 @@
 👋 Merhaba! Ben Rabia Öztürk. Şu anda Acunmedya Akademi'de backend yazılım eğitimi alıyorum. Burada aldığım eğitimlerle, yazılım geliştirme sürecinin her aşamasını öğrenme fırsatı buldum ve bu süreçten büyük keyif alıyorum.
 
-Backend geliştirme konusunda uzmanlaşmak için C# ve SQL gibi teknolojiler üzerinde yoğunlaşıyorum. Yazılım geliştirme sürecinin her adımında yeni şeyler öğrenmek ve öğrendiklerimi projelerimde uygulamak benim için büyük bir tatmin kaynağı.
+Tabii! İşte GitHub profilinde gözükmesi için daha profesyonel bir dille düzenlenmiş hali:
 
-💻 Öğrenmeye ve geliştirmeye devam ettiğim konular: 
-C#,
-SQL,
-HTML,
-CSS,
-ASP.NET CORE
+Merhaba! Ben Rabia Öztürk 👋
+Backend yazılım geliştirme konusunda tutkulu bir yazılımcıyım. Şu anda Acunmedya Akademi'de aldığım eğitimle, yazılım dünyasında güçlü bir altyapı oluşturuyorum. Yazılım geliştirme sürecinin her aşamasını deneyimleme fırsatı buluyor ve bu süreçten büyük bir keyif alıyorum.
 
-🔭 Şu an üzerinde çalıştığım projeler: 
-Eğitim sürecinde geliştirdiğim çeşitli backend projeleri ve web uygulamaları
+Backend teknolojilerinde uzmanlaşma yolunda, C# ve SQL gibi önemli teknolojilere odaklanıyorum. Öğrendiğim her yeni bilgiyi projelerime entegre ederek yazılım geliştirme süreçlerimi sürekli olarak iyileştiriyorum.
+
+🚀 Uzmanlık Alanlarım ve Öğrenmeye Devam Ettiklerim:
+Backend Teknolojileri: C#, SQL, ASP.NET Core
+Web Teknolojileri: HTML, CSS
+🌱 Şu Anda Üzerinde Çalıştığım Projeler:
+Eğitim sürecimde geliştirdiğim backend projeleri ve çeşitli web uygulamaları üzerinde çalışıyorum. Her projede, öğrendiğim yeni teknolojileri pratiğe dökmek ve gerçek dünya senaryolarına uygun çözümler üretmek hedefim.
+
+Her zaman kendimi geliştirmeye, yeni şeyler öğrenmeye ve yazılım dünyasında katkı sağlamaya devam ediyorum!
